@@ -1,0 +1,58 @@
+
+  .myphoto{
+    height:150px;
+    border-radius:75px;
+    margin-left:40px
+  }
+  .intro{
+    display:grid;
+    grid-template-columns: auto 1fr;
+    gap: 70px;
+    align-items:center;
+    background-color:#f2f2f2;
+    padding:10px;
+    border-radius:10px;
+    border: 2px solid #42f3f4;
+  }
+  .name{
+    margin-left:10px;
+    margin-bottom:2px;
+  }
+  .role{
+    margin-left:10px;
+  }
+  .about{
+    background-color:#f2f2f2;
+    border-radius:10px;
+    padding:10px;
+    border: 2px solid #42f2f2;
+  }
+  .skills{
+    background-color:#f2f2f2;
+    border-radius:10px;
+    padding:10px;
+    border: 2px solid #42f2f2;
+  }
+  .kgp_pic{
+    height:100px;
+    vertical-align:middle;
+  }
+  .dot{
+    display: inline-block;
+    vertical-align: middle;
+    
+  }
+  .projects{
+    background-color:#f2f2f2;
+    border: 2px solid #42f2f2;
+    padding:10px;
+    border-radius:10px;
+  }
+  .contacts{
+    border: 2px solid #42f2f2;
+    background-color: #f2f2f2;
+    border-radius:10px;
+    padding:10px;
+  }
+  
+
